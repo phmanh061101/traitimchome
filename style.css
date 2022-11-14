@@ -84,12 +84,11 @@ h1::before
 	
 }
 @keyframes hienthiten {
-0%,40%,100%{
-	width: 0%;
-}	
-60%,80%
-{
-	width: 100%;
+	0%,40%,100%{
+		width: 0;
+	}
+	60%,100%
+	{
+		width: 100%;
+	}
 }
-}
-
